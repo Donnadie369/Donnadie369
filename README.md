@@ -6,12 +6,11 @@
 <h3> Aquí hay algunos datos divertidos sobre mí:</h3>
 
 - 🔭 Actualmente estoy, practicando de manera autodidacta.
-- 🌱 Llevo 3 años desde que acabe la carrera como Ingenieria de Software de manera tecnica y tratando de convalidar con una Universidad.
 - 👯 Busco compañero/a para compartir ideas y hacer proyectos frontend ya sea simples.
 - 👾 Tambien jugar video juegos, para despejar la mente.
 - 💬 Conversar sobre posibles proyecto que tengamos en mente.
 - 😎 Me gusta cualquier tipo de musica, sobre todo si tiene un buen ritmo.
-
+- 🌱 Llevo 3 años desde que acabe la carrera como Ingenieria de Software de manera tecnica y trato de convalidar con una Universidad.
 
 <!--
 **Donnadie369/Donnadie369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
