@@ -10,7 +10,7 @@
 - 😎 Me gusta cualquier tipo de musica, sobre todo si tiene un buen ritmo.
 
 ### 🛠 &nbsp;Tecnologias que domino.
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,nodejs)](https://skillicons.dev)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
