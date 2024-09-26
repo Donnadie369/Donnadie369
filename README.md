@@ -1,5 +1,7 @@
 <h1 align="center">Hola, soy Donnadie369 👋</h1>
 
+![1](https://github.com/user-attachments/assets/308a234c-a69c-4e70-9144-07ab3e4e89a3)
+
 ### 🛠 &nbsp;Tecnologias que domino.
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,js,ts,nodejs,react,vite,git,github)](https://skillicons.dev)
 
