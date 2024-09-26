@@ -4,6 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,js,ts,nodejs,react,vite,git,github)](https://skillicons.dev)
 
 <h3> Aquí hay algunos datos divertidos sobre mí:</h3>
+
 - 🔭 Actualmente estoy, practicando de manera autodidacta.
 - 🌱 Llevo 3 años desde que acabe la carrera como Ingenieria de Software de manera tecnica y tratando de convalidar con una Universidad.
 - 👯 Busco compañero/a para compartir ideas y hacer proyectos frontend ya sea simples.
