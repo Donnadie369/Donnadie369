@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy Donnadie369 👋</h1>
 
-<h3> Here's some fun facts about me: </h3>
+<h3> Aquí hay algunos datos divertidos sobre mí:</h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
+- 🔭 Actualmente estoy, practicando de manera autodidacta.
+- 🌱 Llevo 3 años desde que acabe la carrera como Ingenieria de Software de manera tecnica y tratando de convalidar con una Universidad.
+- 👯 Busco compañero/a para compartir ideas y hacer proyectos frontend ya sea simples.
+- 👾 Tambien jugar video juegos, para despejar la mente.
+- 💬 Conversar sobre posibles proyecto que tengamos en mente.
+- 😎 Me gusta cualquier tipo de musica, sobre todo si tiene un buen ritmo.
 <!--
 **Donnadie369/Donnadie369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
