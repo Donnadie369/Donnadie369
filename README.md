@@ -11,7 +11,7 @@
 - 👯 Busco compañero/a para compartir ideas y hacer proyectos frontend ya sea simples.
 - 👾 Tambien jugar video juegos, para despejar la mente.
 - 💬 Conversar sobre posibles proyecto que tengamos en mente.
-- 😎 Me gusta cualquier tipo de musica, sobre todo si tiene un buen ritmo.
+- 😎 Me gusta cualquier tipo de musica, sobre todo si me llega agradar el ritmo de la melodia.
 - 🌱 Llevo 3 años desde que acabe la carrera como Ingenieria de Software de manera tecnica y trato de convalidar con una Universidad.
 
 <!--
